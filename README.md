@@ -34,6 +34,8 @@ Regression plot - Correlation between Popularity and Acousticness
 
 ![Popularity vs Acousticness](https://github.com/BATjerin/Spotify-Data-Analysis-Project/assets/148438020/9090d687-15c7-482b-840b-b58291b62535)
 
+Distibution plot - Visualize total number of songs on Spotify since 1992
+
 
 
 
