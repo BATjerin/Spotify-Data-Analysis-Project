@@ -27,6 +27,7 @@ Correlation Heatmap between Variable
 ![heatmap](https://github.com/BATjerin/Spotify-Data-Analysis-Project/assets/148438020/7bf3d31d-7446-461e-affa-41cb308dc623)
 
 Regression plot - Correlation between Loudness and Energy
+
 ![loudness vs energy](https://github.com/BATjerin/Spotify-Data-Analysis-Project/assets/148438020/39388e5b-c9c6-4d75-b9b5-bbdeb7f3934c)
 
 
