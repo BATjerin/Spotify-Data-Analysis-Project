@@ -24,4 +24,6 @@ Top 10 most popular songs on Spotify
 Top 10 least popular songs on Spotify
 Correlation Heatmap between Variable
 
+![heatmap](https://github.com/BATjerin/Spotify-Data-Analysis-Project/assets/148438020/7bf3d31d-7446-461e-affa-41cb308dc623)
+
 
