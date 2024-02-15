@@ -42,6 +42,10 @@ Duration of songs in different Genres
 
 ![different Genres](https://github.com/BATjerin/Spotify-Data-Analysis-Project/assets/148438020/60b77930-167b-4a27-99f3-320a39dff600)
 
+Top 5 Genres by Popularity
+
+
+
 
 
 
