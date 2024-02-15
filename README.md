@@ -38,6 +38,10 @@ Distibution plot - Visualize total number of songs on Spotify since 1992
 
 ![Number of songs per year](https://github.com/BATjerin/Spotify-Data-Analysis-Project/assets/148438020/a12e5afd-a6f5-45a8-8163-72cfdb908985)
 
+Duration of songs in different Genres
+
+
+
 
 
 
