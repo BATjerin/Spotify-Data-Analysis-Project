@@ -30,4 +30,8 @@ Regression plot - Correlation between Loudness and Energy
 
 ![loudness vs energy](https://github.com/BATjerin/Spotify-Data-Analysis-Project/assets/148438020/39388e5b-c9c6-4d75-b9b5-bbdeb7f3934c)
 
+Regression plot - Correlation between Popularity and Acousticness
+
+
+
 
